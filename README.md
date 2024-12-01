@@ -1,2 +1,2 @@
 # technical-aspects
-Discussions on technical aspects, specifications and issues
+Discussions on technical an architecture aspects, specifications and issues.

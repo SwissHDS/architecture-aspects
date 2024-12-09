@@ -9,6 +9,7 @@ Die Architektur muss die technischen Voraussetzungen für den reibungslosen und 
 
 In diesem Raum wollen wir über Fragen und Themen zur Architektur und der technischen Umsetzung des Datenraums informieren und mit Ihnen diskutieren. 
 
-[Diskussionen](https://github.com/SwissHDS/governance-aspects/discussions) 
+[Diskussionen](https://github.com/SwissHDS/architecture-aspects/discussions) 
+
 [Anregungen und Feedback](https://github.com/SwissHDS/architecture-aspects/issues) 
 

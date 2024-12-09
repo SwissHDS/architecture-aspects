@@ -7,5 +7,8 @@ Daten sind ein Wirtschaftsgut mit einem instrinsischem Wert. Dies geilt insbeson
 
 Die Architektur muss die technischen Voraussetzungen für den reibungslosen und sicheren Datenaustausch im Datenraum Gesundheit schaffen. Das betrifft insbesondere Authentisierung und Autorisierung, die technische Ausgestaltung der Schnittstellen und die Protokollierung, aber auch das Self Service Portal, über das Daten und die Zugangsbedingungen gefunden werden können.       
 
-In diesem Raum wollen wir über Fragen und Themen zur Architektur und der technischen Umsetzung des Datenraums informieren und mit Ihnen diskutieren.  
+In diesem Raum wollen wir über Fragen und Themen zur Architektur und der technischen Umsetzung des Datenraums informieren und mit Ihnen diskutieren. 
+
+[Diskussionen](https://github.com/SwissHDS/governance-aspects/discussions) 
+[Anregungen und Feedback](https://github.com/SwissHDS/architecture-aspects/issues) 
 

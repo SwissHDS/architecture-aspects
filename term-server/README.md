@@ -1,2 +1,2 @@
 # Terminologie Server
-Hier liegen die Dokumente, welche in der Diskussion referenziert werden.
+In der Diskussion zum Terminologieserver referenzierte Dokumente sind hiuer abgelegt.
